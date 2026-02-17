@@ -14,3 +14,5 @@ const siteMetadata = {
   github: 'https://github.com/DevMazharPro',
   // You can leave the analytics and comment providers as default for now
 }
+
+export default siteMetadata
